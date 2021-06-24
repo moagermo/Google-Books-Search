@@ -1,0 +1,28 @@
+.save {
+  background-color: darkblue;
+  color: lightblue
+}
+
+.save:hover
+{
+  background-color: lightblue;
+  color: darkblue;
+}
+
+.view {
+  background-color: darkblue;
+  color: lightblue
+}
+
+.view:hover
+{
+  background-color: lightblue;
+  color: darkblue;
+}
+
+.card {
+  border-style: solid;
+  border-width: 1px;
+  border-color: darkblue;
+  margin-bottom: 330rem;
+}

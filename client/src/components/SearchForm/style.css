@@ -1,0 +1,10 @@
+.submitBtn {
+  background-color: darkblue;
+  margin-bottom: 8%;
+  color: lightblue;
+}
+
+.submitBtn:hover {
+  background-color: lightblue;
+  color: darkblue;
+}
