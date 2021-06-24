@@ -2,10 +2,10 @@
 A React-based Google Books Search app using Node.js, Express and MongoDB.
 
 ## Website
+[Deployed App](https://google-bookz.herokuapp.com/)
 
-
-## Homework Instructions
-[Homework Details](homework_instructions.md)
+## Code
+[GitHub](https://github.com/moagermo/google-books-search)
 
 ## Technology
 * React
@@ -23,5 +23,7 @@ Type in a book title in the search box provided. Click "Save" to save a book for
 * Develop fully responsive site.
 * Ability to add notes to saved books.
 
-## Animated GIF
-![Google Book React Demo](google-book-react.gif)
+## Contact
+[GitHub](https://github.com/moagermo)
+[Phone](tel:6149699988)
+[Email](mailto:moager@att.net)
