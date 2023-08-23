@@ -2,6 +2,9 @@
   "name": "googlebookreact",
   "version": "1.0.0",
   "description": "React based Google Book Search app.",
+  "engines": {
+    "node": "18.x"
+  },
   "main": "server.js",
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
